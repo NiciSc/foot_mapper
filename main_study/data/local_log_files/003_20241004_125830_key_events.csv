@@ -1,0 +1,21 @@
+User Id,Timestamp,Key,Mapped to,Event Type
+003,2024-10-04 12:58:37,Key.f22,p+r+i+n+t,down
+003,2024-10-04 12:58:37,Key.f22,p+r+i+n+t,up
+003,2024-10-04 12:58:45,Key.f22,p+r+i+n+t,down
+003,2024-10-04 12:58:45,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:00:26,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:00:26,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:08:04,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:08:05,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:13:06,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:13:06,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:13:12,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:13:12,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:20:07,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:20:07,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:23:26,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:23:26,Key.f22,p+r+i+n+t,up
+003,2024-10-04 13:33:30,Key.f22,p+r+i+n+t,down
+003,2024-10-04 13:33:30,Key.f22,p+r+i+n+t,up
+003,2024-10-04 14:50:07,key_count,upload_csv_files,1625
+003,2024-10-04 14:50:07,success,upload_csv_file,003_20241004_125830_key_events_exited.csv

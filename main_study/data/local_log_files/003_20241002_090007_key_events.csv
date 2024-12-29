@@ -1,0 +1,23 @@
+User Id,Timestamp,Key,Mapped to,Event Type
+003,2024-10-02 09:00:14,Key.f23,Ctrl+Tab,down
+003,2024-10-02 09:00:14,Key.f23,Ctrl+Tab,up
+003,2024-10-02 09:00:14,Key.f24,Alt+Esc,down
+003,2024-10-02 09:00:14,Key.f24,Alt+Esc,up
+003,2024-10-02 09:00:16,Key.f23,Ctrl+Tab,down
+003,2024-10-02 09:00:16,Key.f23,Ctrl+Tab,up
+003,2024-10-02 09:00:16,Key.f23,Ctrl+Tab,down
+003,2024-10-02 09:00:16,Key.f23,Ctrl+Tab,up
+003,2024-10-02 10:00:04,key_count,upload_csv_files,1332
+003,2024-10-02 10:00:04,success,upload_csv_file,003_20241002_090007_key_events_20241002_100004.csv
+003,2024-10-02 11:00:04,key_count,upload_csv_files,535
+003,2024-10-02 11:00:04,success,upload_csv_file,003_20241002_090007_key_events_20241002_110004.csv
+003,2024-10-02 12:00:04,key_count,upload_csv_files,39
+003,2024-10-02 12:00:04,success,upload_csv_file,003_20241002_090007_key_events_20241002_120004.csv
+003,2024-10-02 13:00:05,key_count,upload_csv_files,0
+003,2024-10-02 13:00:05,success,upload_csv_file,003_20241002_090007_key_events_20241002_130004.csv
+003,2024-10-02 14:00:05,key_count,upload_csv_files,16
+003,2024-10-02 14:00:05,success,upload_csv_file,003_20241002_090007_key_events_20241002_140005.csv
+003,2024-10-02 15:00:06,key_count,upload_csv_files,61
+003,2024-10-02 15:00:06,success,upload_csv_file,003_20241002_090007_key_events_20241002_150005.csv
+003,2024-10-02 16:14:50,key_count,upload_csv_files,186
+003,2024-10-02 16:14:50,success,upload_csv_file,003_20241002_090007_key_events_exited.csv
