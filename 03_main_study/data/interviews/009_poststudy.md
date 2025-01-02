@@ -1,3 +1,9 @@
+---
+noteId: "3dfea912c8ff11efa80603b7927e96d0"
+tags: []
+
+---
+
 # FootMapper - Poststudy Interview
 01. Genereller Eindruck
 - gewöhnungbedüftig viel zeit ums sinnvoll nutzen zu können

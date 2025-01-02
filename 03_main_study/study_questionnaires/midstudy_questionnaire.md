@@ -1,3 +1,9 @@
+---
+noteId: "3e831b50c8ff11efa80603b7927e96d0"
+tags: []
+
+---
+
 # FootMapper - Midstudy Questionnaire
 
 Depending on the day of the study, the participants were asked different questions in the questionnaire.

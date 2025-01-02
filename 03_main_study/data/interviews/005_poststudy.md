@@ -1,3 +1,9 @@
+---
+noteId: "3dfe0cd0c8ff11efa80603b7927e96d0"
+tags: []
+
+---
+
 # FootMapper - Poststudy Interview
 01. Genereller Eindruck
 - praktisch aber 3 pedale vlt zu viel, 2 hätten auch gereicht

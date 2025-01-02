@@ -1,3 +1,9 @@
+---
+noteId: "3dfde5c0c8ff11efa80603b7927e96d0"
+tags: []
+
+---
+
 # FootMapper - Poststudy Interview
 01. Genereller Eindruck
 - coole studie
