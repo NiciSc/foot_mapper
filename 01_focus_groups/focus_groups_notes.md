@@ -1,3 +1,9 @@
+---
+noteId: "1c7f2f00c8f311efa80603b7927e96d0"
+tags: []
+
+---
+
 Fokusgruppe / Workshop Füße #1
 #A          
 Datum: 14.02.2024 
