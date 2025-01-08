@@ -1,0 +1,6 @@
+User Id,Timestamp,Key,Mapped to,Event Type
+008,2024-10-18 16:04:32,user_id,008,mapping
+008,2024-10-18 16:04:32,input_1,Ctrl+t,mapping
+008,2024-10-18 16:04:32,input_2,win+Shift+s,mapping
+008,2024-10-18 16:04:32,input_3,Down,mapping
+008,2024-10-18 16:31:11,success,upload_csv_file,008_20241018_080432_key_events_20241018_163111_exited.csv
