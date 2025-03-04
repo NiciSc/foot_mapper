@@ -71,7 +71,7 @@ difference(){
 	
 	// angle holes
 	translate([35,-10,30])
-	color("purple")
+	//color("purple")
 	rotate([270,90,0])
 	cylinder(h=120, r=3);
 	
@@ -79,7 +79,7 @@ difference(){
 	union(){
 	translate([6,35,33])
 	rotate([0,270,0])
-	color("black")
+	//color("black")
 	halfcylinder(15, 30);
 	
 		
